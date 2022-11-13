@@ -1,4 +1,4 @@
-# Terraform and Deployment of terraform servers.
+# Installation and Deployment of terraform servers.
 This tutorial would guide us about introduction of terraform.we shall discuss the following:- 
 1. Deploy a single server
 2. Deploy a single web server
@@ -26,30 +26,35 @@ terraform init
 
      ```sh
 terraform plan
+
 ```
 
 3.Run terraform graph command(show us the dependency graph)
 
     ```sh
 terraform graph
+
 ```
 
 4. Run terraform apply command. It perform the plan
 
 ```sh
 terraform apply
+
 ```
     
 5. Run curl http://<EC2_INSTANCE_PUBLIC_IP>:8080(to know the output ip address running status)
 
 ```sh
 curl http://<EC2_INSTANCE_PUBLIC_IP>:8080
+
 ```
     
 6. Run terraform destroy command. It terminate the machine
 
        ```sh
 terraform destroy
+
 ```
 
 # DEPLOYMENT:-
