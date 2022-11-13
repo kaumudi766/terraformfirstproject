@@ -85,5 +85,40 @@ terraform destroy
 curl http://<EC2_INSTANCE_PUBLIC_IP>:8080
    terraform destroy
 ```
+# Deploy a configurable web server
+1.Add below code in main.tf
+#image
+2.Run following commands:-
+```sh
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+```
+# Deploy a cluster of web servers
+1.Add following codes in main.tf
+# image
+2.Run following commands:-
+```sh
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+```
+# Deploy a load balancer
+1.Add following code in main.tf
+# image
+2.Run  the following commands:-
+```sh
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+```
+3.After running terraform apply we got a url in alb_dns_name outputs.Run below commands.
 
 
+```sh
+   Run curl http://<alb_dns_name>
+   terraform destroy
+```
