@@ -31,8 +31,8 @@ terraform plan
 
 3.Run terraform graph command(show us the dependency graph)
 
-    ```sh
-terraform graph
+ ```sh
+ terraform graph
 
 ```
 
@@ -52,7 +52,7 @@ curl http://<EC2_INSTANCE_PUBLIC_IP>:8080
     
 6. Run terraform destroy command. It terminate the machine
 
-       ```sh
+```sh
 terraform destroy
 
 ```
