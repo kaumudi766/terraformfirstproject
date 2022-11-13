@@ -12,13 +12,14 @@ we should must read first this [tutorial](https://blog.gruntwork.io/an-introduct
 
  # Installation /Fundamentals of terraform:-
  * Install Terraform and AWS account[video](https://shorthillstech-my.sharepoint.com/personal/kapil_jain_shorthillstech_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44%2Fterraformfirst%20project%20%28part1%29%2Emp4&parent=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44)
- * Deploy server and clean[video] (https://shorthillstech-my.sharepoint.com/personal/kapil_jain_shorthillstech_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44%2FTerraform%20Deployment%5F%20kaumudi%20%2Emp4&parent=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44)
+ * Deploy server and clean[video](https://shorthillstech-my.sharepoint.com/personal/kapil_jain_shorthillstech_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44%2FTerraform%20Deployment%5F%20kaumudi%20%2Emp4&parent=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44)
 
 # STEPS TO RUN THE CODE AFTER WE CONFIGURE AWS ACCOUNT AND TERRAFORM ON OUR VIRTUAL M/C:-
 1.Run terraform init command.It initializes a working directory containing Terraform configuration files.
 
-     ```sh
+```sh
 terraform init
+
 ```
 
 2.Run terraform plan command.It creates an execution plan,which lets you preview the changes that Terraform plans to make to our infrastructure.
