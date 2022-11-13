@@ -24,14 +24,14 @@ terraform init
 
 2.Run terraform plan command.It creates an execution plan,which lets you preview the changes that Terraform plans to make to our infrastructure.
 
-     ```sh
+```sh
 terraform plan
 
 ```
 
 3.Run terraform graph command(show us the dependency graph)
 
- ```sh
+```sh
  terraform graph
 
 ```
