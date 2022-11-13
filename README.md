@@ -1,4 +1,4 @@
-# Terraform and Deployment of some servers.
+# Terraform and Deployment of terraform servers.
 This tutorial would guide us about introduction of terraform.we shall discuss the following:- 
 1. Deploy a single server
 2. Deploy a single web server
@@ -16,17 +16,23 @@ we should must read first this [tutorial](https://blog.gruntwork.io/an-introduct
 
 # STEPS TO RUN THE CODE AFTER WE CONFIGURE AWS ACCOUNT AND TERRAFORM ON OUR VIRTUAL M/C:-
 1.Run terraform init command.It initializes a working directory containing Terraform configuration files.
+
      ```sh
 terraform init
 ```
+
 2.Run terraform plan command.It creates an execution plan,which lets you preview the changes that Terraform plans to make to our infrastructure.
+
      ```sh
 terraform plan
 ```
-3.Run terraform graph command(show us the dependency graph) 
+
+3.Run terraform graph command(show us the dependency graph)
+
     ```sh
 terraform graph
 ```
+
 4. Run terraform apply command. It perform the plan
 
 ```sh
@@ -34,14 +40,17 @@ terraform apply
 ```
     
 5. Run curl http://<EC2_INSTANCE_PUBLIC_IP>:8080(to know the output ip address running status)
+
 ```sh
 curl http://<EC2_INSTANCE_PUBLIC_IP>:8080
 ```
     
 6. Run terraform destroy command. It terminate the machine
+
        ```sh
 terraform destroy
 ```
+
 # DEPLOYMENT:-
 Remove code from line no. 7 to 14 and from line no. 20 to 151.
 # image
