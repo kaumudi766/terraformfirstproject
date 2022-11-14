@@ -58,8 +58,9 @@ terraform destroy
 ```
 
 # DEPLOYMENT:-
-Remove code from line no. 7 to 14 and from line no. 20 to 151.
-# image
+Remove code from line no. 17 to 22 and from line no. 20 to 151.
+![Screenshot (772)](https://user-images.githubusercontent.com/109335469/201564019-a663fa50-26f1-4e47-87f0-bcdf3947621a.png)
+
 # Deploy a single server
 1.Run the following commands:-
 
@@ -71,7 +72,8 @@ terraform destroy
 ```
 # Deploy a single web server
 1.Make change in main.tf
-#image
+![Screenshot (773)](https://user-images.githubusercontent.com/109335469/201565602-f8bc8458-2b31-4502-8330-81a07e294a98.png)
+
 2.Run below commands:
 ```sh
 terraform init
@@ -87,7 +89,8 @@ curl http://<EC2_INSTANCE_PUBLIC_IP>:8080
 ```
 # Deploy a configurable web server
 1.Add below code in main.tf
-#image
+![Screenshot (774)](https://user-images.githubusercontent.com/109335469/201566138-53e36ccb-4dec-4ca8-b30f-79df3c233380.png)
+
 2.Run following commands:-
 ```sh
 terraform init
@@ -97,7 +100,8 @@ terraform destroy
 ```
 # Deploy a cluster of web servers
 1.Add following codes in main.tf
-# image
+![Screenshot (775)](https://user-images.githubusercontent.com/109335469/201566491-0c4c86e2-f481-42b6-9710-ad767531bc1a.png)
+
 2.Run following commands:-
 ```sh
 terraform init
@@ -107,7 +111,10 @@ terraform destroy
 ```
 # Deploy a load balancer
 1.Add following code in main.tf
-# image
+![Screenshot (776)](https://user-images.githubusercontent.com/109335469/201566885-dc97d5bc-1040-49d4-875f-fd79b15e9647.png)
+![Screenshot (777)](https://user-images.githubusercontent.com/109335469/201567038-b2c15899-9b32-4b20-9fce-ddb6248bec47.png)
+![Screenshot (778)](https://user-images.githubusercontent.com/109335469/201567147-32a57efb-2a15-48da-8c93-bac6f0c92571.png)
+
 2.Run  the following commands:-
 ```sh
 terraform init
