@@ -74,6 +74,8 @@ terraform destroy
 # Deploy a single web server
 1.Make change in main.tf
 ![Screenshot (773)](https://user-images.githubusercontent.com/109335469/201565602-f8bc8458-2b31-4502-8330-81a07e294a98.png)
+![Screenshot (784)](https://user-images.githubusercontent.com/109335469/202369953-406b74be-52e0-442b-8084-17f60caad463.png)
+
 
 2.Run below commands:
 ```sh
