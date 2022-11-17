@@ -104,6 +104,8 @@ terraform destroy
 # Deploy a cluster of web servers
 1.Add following codes in main.tf
 ![Screenshot (775)](https://user-images.githubusercontent.com/109335469/201566491-0c4c86e2-f481-42b6-9710-ad767531bc1a.png)
+![image](https://user-images.githubusercontent.com/109335469/202370886-7b2e8e2e-be14-4f06-8d30-7f80f37b6d83.png)
+
 
 2.Run following commands:-
 ```sh
