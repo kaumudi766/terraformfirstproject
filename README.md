@@ -59,7 +59,8 @@ terraform destroy
 
 # DEPLOYMENT:-
 Remove code from line no. 14 to 29 .
-![Screenshot (772)](https://user-images.githubusercontent.com/109335469/201564019-a663fa50-26f1-4e47-87f0-bcdf3947621a.png)
+![Screenshot (783)](https://user-images.githubusercontent.com/109335469/202369101-b0006c43-b0eb-4932-9212-b56763f8d8bd.png)
+
 
 # Deploy a single server
 1.Run the following commands:-
