@@ -118,6 +118,7 @@ terraform destroy
 1.Add following code in main.tf
 ![Screenshot (776)](https://user-images.githubusercontent.com/109335469/201566885-dc97d5bc-1040-49d4-875f-fd79b15e9647.png)
 ![Screenshot (777)](https://user-images.githubusercontent.com/109335469/201567038-b2c15899-9b32-4b20-9fce-ddb6248bec47.png)
+![Screenshot (786)](https://user-images.githubusercontent.com/109335469/202372687-c09206c0-2c1a-41a2-a8ea-3e1e4b2c50b4.png)
 ![Screenshot (778)](https://user-images.githubusercontent.com/109335469/201567147-32a57efb-2a15-48da-8c93-bac6f0c92571.png)
 
 2.Run  the following commands:-
