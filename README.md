@@ -58,7 +58,7 @@ terraform destroy
 ```
 
 # DEPLOYMENT:-
-Remove code from line no. 14 to 29 .
+Remove code from line no. 17 to 24 .
 ![Screenshot (783)](https://user-images.githubusercontent.com/109335469/202369101-b0006c43-b0eb-4932-9212-b56763f8d8bd.png)
 
 
