@@ -9,6 +9,11 @@ This tutorial would guide us about introduction of terraform.we shall discuss th
 
 we should must read first this [tutorial](https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180#a9b0) and the code is explained in this 
 [video part1](https://shorthillstech-my.sharepoint.com/personal/kapil_jain_shorthillstech_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44%2Fterraformfirst%20project%20%28part1%29%2Emp4&parent=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44) and [video part2](https://shorthillstech-my.sharepoint.com/personal/kapil_jain_shorthillstech_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44%2FTerraform%20Deployment%5F%20kaumudi%20%2Emp4&parent=%2Fpersonal%2Fkapil%5Fjain%5Fshorthillstech%5Fcom%2FDocuments%2FTraining%2FDevOps%2F2022%2F44) to know the steps properly:-
+>Prerequirement:-
+
+- install terraform [video](https://www.youtube.com/watch?v=Cn6xYf0QJME&t=8s)
+- Setup your AWS account[video](https://www.youtube.com/watch?v=XhW17g73fvY&t=357s)
+- Create IAM user with programmatic access and administrator Access [video](https://www.youtube.com/watch?v=Xx_-IA9qnuI)
 
  # Installation /Fundamentals of terraform:-
  * Install Terraform and AWS account [video](https://www.youtube.com/watch?v=Cn6xYf0QJME&t=15s)
